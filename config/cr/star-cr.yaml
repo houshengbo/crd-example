@@ -1,0 +1,8 @@
+apiVersion: "example.crd.com/v1alpha1"
+kind: "Star"
+metadata:
+  name: "sun"
+spec:
+  type: "G"
+  location: "Galaxy"
+  option: "Optional"
